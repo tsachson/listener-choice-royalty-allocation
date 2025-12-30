@@ -354,9 +354,9 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## Contact
 
-**Author:** [Your Name]
+**Author:** Thomas Sachson
 
-**Project Link:** [https://github.com/yourusername/listener-choice-royalty-allocation](https://github.com/yourusername/listener-choice-royalty-allocation)
+**Project Link:** [https://github.com/tsachson/listener-choice-royalty-allocation](https://github.com/tsachson/listener-choice-royalty-allocation)
 
 **Related Paper:** [www.AgenticYears.com](http://www.AgenticYears.com)
 
